@@ -1,4 +1,4 @@
-# digitla_business
+# Digitla_Business
 
 Ujian Tengah Semester
 
